@@ -6,3 +6,11 @@ https://www.virustotal.com/gui/file/ff45c1ebd082546468a8a4f30d7371386b8c1f8a3cec
 1 False Positive from my certificate not trusted. All other checks were fine. 
 
 If you would like, please send isk to Sulten. I am poors. 
+
+
+How to get it working:
+1. Download the installer
+2. Install
+3. You can download and import the Imperium Profile (Not for Pubbies) in the repo or use your own / create a new one
+4. Click Start
+5. Profit??
