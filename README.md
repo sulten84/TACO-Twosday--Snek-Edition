@@ -9,7 +9,7 @@ If you would like, please send isk to Sulten. I am poors.
 
 
 How to get it working:
-1. Download the installer
+1. Download
 2. Install
 3. You can download and import the Imperium Profile (Not for Pubbies) in the repo or use your own / create a new one
 4. Click Start
