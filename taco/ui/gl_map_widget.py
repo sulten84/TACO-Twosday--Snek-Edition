@@ -283,7 +283,10 @@ class GLMapWidget(QOpenGLWidget):
         glEnable(GL_BLEND)
         glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA)
         glEnable(GL_PROGRAM_POINT_SIZE)
-        glEnable(GL_POINT_SPRITE)
+        try:
+            glEnable(GL_POINT_SPRITE)
+        except Exception:
+            pass  # Not needed in OpenGL 3.3+ Core profile
 
         self._load_shaders()
         self._load_textures()
