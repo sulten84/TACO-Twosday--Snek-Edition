@@ -70,16 +70,17 @@ jobs:
     container:
       image: archlinux:latest
     steps:
-      - name: Install base packages
+      - name: Initialize keyring and install packages
         run: |
+          pacman-key --init
           pacman -Syu --noconfirm
-          pacman -S --noconfirm git python python-pip python-pyqt6 python-opengl python-numpy python-pyrr binutils
+          pacman -S --noconfirm git python python-pip python-pyqt6 python-opengl python-numpy binutils
 
       - uses: actions/checkout@v4
 
       - name: Install Python dependencies
         run: |
-          pip install --break-system-packages pyinstaller PyOpenGL-accelerate
+          pip install --break-system-packages pyrr pyinstaller PyOpenGL-accelerate
 
       - name: Build with PyInstaller
         run: pyinstaller taco.spec
