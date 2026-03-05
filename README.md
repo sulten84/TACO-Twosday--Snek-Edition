@@ -9,9 +9,11 @@ If you would like, please send isk to Sulten. I am poors.
 
 
 How to get it working:
-1. Download
+1. Download 
 2. Install
 3. You can download and import the Imperium Profile (Not for Pubbies) in the repo or use your own / create a new one
 4. Click Start
 5. Profit??
 
+Current version v2.1.0
+https://github.com/sulten84/TACO-Twosday--Snek-Edition/releases/tag/v2.1.0
