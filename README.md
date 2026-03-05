@@ -15,10 +15,13 @@ How to get it working:
 4. Click Start
 5. Profit??
 
-Windows Version https://github.com/sulten84/TACO-Twosday--Snek-Edition/blob/main/TACO_Twosday_Setup_2.1.0.exe
+Windows Version 
+https://github.com/sulten84/TACO-Twosday--Snek-Edition/blob/main/TACO_Twosday_Setup_2.1.0.exe
 
 
-Debian Based Distros (Mint, Ubuntu< PoPOS) https://github.com/sulten84/TACO-Twosday--Snek-Edition/blob/main/TACO_Twosday_Debian.tar.gz
+Debian Based Distros (Mint, Ubuntu< PoPOS) 
+https://github.com/sulten84/TACO-Twosday--Snek-Edition/blob/main/TACO_Twosday_Debian.tar.gz
 
 
-Steam Deck (Arch) https://github.com/sulten84/TACO-Twosday--Snek-Edition/blob/main/TACO_Twosday_SteamDeck.tar.gz
+Steam Deck (Arch) 
+https://github.com/sulten84/TACO-Twosday--Snek-Edition/blob/main/TACO_Twosday_SteamDeck.tar.gz
